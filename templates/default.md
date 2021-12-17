@@ -1,7 +1,7 @@
 ---
 title: "##_title_##"
 date: ##_date_##
-permalink: "##_permalink_##"
+permalink: "/##_permalink_##/"
 ---
 
 이동중입니다.. 잠시만 기다려주세요.  
