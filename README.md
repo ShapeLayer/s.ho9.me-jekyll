@@ -13,8 +13,8 @@ Clone this repository and modify `links.json`. Then turn on Github Pages.
   {
     "filename": "filename to be set in the build result",
     "title": "title",
-    "date": "default",
-    "template": "default",
+    "date": "`YYYY-MM-DD hh:mm:ss +timezone` or `default`. `default` will be changed to 0000-00-00",
+    "template": "template .md file name that in the templates folder (default)",
     "target": "link to redirect",
     "permalink": "link to serve",
     "description": "description meta tag content"
