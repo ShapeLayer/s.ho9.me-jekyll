@@ -7,5 +7,14 @@
     "target": "https://discord.com/invite/xN6tzmgNnb",
     "permalink": "jnu",
     "description": "전남대학교 학사공지"
+  },
+  {
+    "filename": "sora",
+    "title": "마법의 소라고둥",
+    "date": "default",
+    "template": "default",
+    "target": "https://discord.com/api/oauth2/authorize?client_id=853919223331422238&permissions=2048&scope=bot",
+    "permalink": "sora",
+    "description": "마법의 소라고둥을 디스코드 서버에 추가합니다."
   }
 ]
