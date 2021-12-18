@@ -25,5 +25,14 @@
     "target": "https://discord.gg/M9P6xyeE42",
     "permalink": "failedgm",
     "description": "실패한 게이머들 디스코드 서버에 당신을 초대합니다."
+  },
+  {
+    "filename": "al-client",
+    "title": "Aimless MCManager 다운로드",
+    "date": "default",
+    "template": "default",
+    "target": "https://drive.google.com/file/d/1XvtQUtxR50GHSPPUtVNnLhvU-VuBcIh1/view?usp=sharing",
+    "permalink": "al-client",
+    "description": "Aimless MCManager를 다운로드합니다."
   }
 ]
