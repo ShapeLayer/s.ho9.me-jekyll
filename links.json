@@ -34,5 +34,14 @@
     "target": "https://drive.google.com/file/d/1XvtQUtxR50GHSPPUtVNnLhvU-VuBcIh1/view?usp=sharing",
     "permalink": "al-client",
     "description": "Aimless MCManager를 다운로드합니다."
+  },
+  {
+    "filename": "notion-tutorial",
+    "title": "노션 시작하기",
+    "date": "default",
+    "template": "default",
+    "target": "https://shapelayer.notion.site/9f30dd8baff646c58784d87b4dee0c04",
+    "permalink": "notion-tutorial",
+    "description": "간단한 노션 사용법을 배워봅시다."
   }
 ]
