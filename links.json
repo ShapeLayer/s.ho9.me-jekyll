@@ -1,11 +1,11 @@
 [
   {
-    "filename": "jnu",
+    "filename": "jnu-noti",
     "title": "전남대학교 학사공지",
     "date": "default",
     "template": "default",
     "target": "https://discord.com/invite/xN6tzmgNnb",
-    "permalink": "jnu",
+    "permalink": "jnu-noti",
     "description": "전남대학교 학사공지"
   },
   {
