@@ -43,5 +43,14 @@
     "target": "https://shapelayer.notion.site/9f30dd8baff646c58784d87b4dee0c04",
     "permalink": "notion-tutorial",
     "description": "간단한 노션 사용법을 배워봅시다."
+  },
+  {
+    "filename": "lje-com-note",
+    "title": "이주은 컴활 노트정리",
+    "date": "default",
+    "template": "default",
+    "target": "https://shapelayer.notion.site/1-b2d424ddd66345dc8c1000ea3079f634",
+    "permalink": "lje-com-note",
+    "description": "이주은 컴활 노트정리"
   }
 ]
