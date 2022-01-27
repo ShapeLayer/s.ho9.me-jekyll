@@ -52,5 +52,14 @@
     "target": "https://shapelayer.notion.site/1-b2d424ddd66345dc8c1000ea3079f634",
     "permalink": "lje-com-note",
     "description": "이주은 컴활 노트정리"
+  },
+  {
+    "filename": "pimm-boj-2022",
+    "title": "2022 핌 알고리즘 스터디",
+    "date": "default",
+    "template": "default",
+    "target": "https://shapelayer.notion.site/2022-8b9ad3b2a2544db5970d423a59ace846",
+    "permalink": "pimm-boj-2022",
+    "description": "2022 핌 알고리즘 스터디"
   }
 ]
