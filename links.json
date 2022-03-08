@@ -18,15 +18,6 @@
     "description": "마법의 소라고둥을 디스코드 서버에 추가합니다."
   },
   {
-    "filename": "failedgm",
-    "title": "실패한 게이머들",
-    "date": "default",
-    "template": "default",
-    "target": "https://discord.gg/M9P6xyeE42",
-    "permalink": "failedgm",
-    "description": "실패한 게이머들 디스코드 서버에 당신을 초대합니다."
-  },
-  {
     "filename": "al-client",
     "title": "Aimless MCManager 다운로드",
     "date": "default",
