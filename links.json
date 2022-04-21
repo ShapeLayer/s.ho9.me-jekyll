@@ -61,5 +61,14 @@
     "target": "https://drive.google.com/drive/folders/1ADMHI1qLYza3O9D8zbldSMe4c1pccgkD?usp=sharing",
     "permalink": "image-sua-as",
     "description": "수어과제 AdvancedSkeleton 관련 파일"
+  },
+  {
+    "filename": "2022-sua-notion",
+    "title": "2022년도 수어과제 노션",
+    "date": "default",
+    "template": "default",
+    "target": "https://www.notion.so/shapelayer/ce22e0e47ab24357934b8ab67fdd1905",
+    "permalink": "2022-sua-notion",
+    "description": "2022년도 수어과제 노션"
   }
 ]
