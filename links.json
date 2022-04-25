@@ -70,5 +70,14 @@
     "target": "https://www.notion.so/shapelayer/ce22e0e47ab24357934b8ab67fdd1905",
     "permalink": "2022-sua-notion",
     "description": "2022년도 수어과제 노션"
+  },
+  {
+    "filename": "2022-1-c-midexam",
+    "title": "2022.1 C언어 중간고사",
+    "date": "default",
+    "template": "default",
+    "target": "https://github.com/ShapeLayer/training/tree/main/tasks/lectures/jnu/c-ce-basic-kim-2022-1/exam-1-mid",
+    "permalink": "2022-1-c-midexam",
+    "description": "2022.1 C언어 중간고사"
   }
 ]
