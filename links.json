@@ -115,5 +115,14 @@
     "target": "https://shapelayer.notion.site/Iterator-911258e772af4d6e9d894065a52eeaa2",
     "permalink": "stolio-2022-3-4",
     "description": "Stolio 3월 4차"
+  },
+  {
+    "filename": "jnu-algo-2022",
+    "title": "2022 알고리즘 소대회",
+    "date": "default",
+    "template": "default",
+    "target": "https://discord.gg/hnjBkG6t",
+    "permalink": "jnu-algo-2022",
+    "description": "2022 알고리즘 소대회"
   }
 ]
