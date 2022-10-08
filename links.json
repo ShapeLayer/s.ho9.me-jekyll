@@ -124,5 +124,14 @@
     "target": "https://discord.gg/hnjBkG6t",
     "permalink": "jnu-algo-2022",
     "description": "2022 알고리즘 소대회"
+  },
+  {
+    "filename": "28-1-printer",
+    "title": "홍도깨비 사지방 프린터 드라이버",
+    "date": "default",
+    "template": "default",
+    "target": "https://h30438.www3.hp.com/pub/softlib/software13/printers/SS/SL-M3370FD/SamsungUniversalPrintDriver3.exe",
+    "permalink": "28-1-printer",
+    "description": "홍도깨비 사지방 프린터 드라이버"
   }
 ]
