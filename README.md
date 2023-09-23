@@ -1,3 +1,7 @@
+This repository is no longer maintained.  
+Current version of s.ho9.me is [here](https://github.com/ShapeLayer/s.ho9.me).  
+
+---
 # s.ho9.me
 Short link generator for `ho9.me` domain using Github Actions.
 
